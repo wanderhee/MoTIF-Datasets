@@ -10,7 +10,7 @@ Our contributions can be mainly divided into the following parts:
 # :collision: Sample Demonstration
 Here is an example from the dataset our research team has constructed – a sample sourced from The Tianjin Road Intersection Dataset.
 
-https://private-user-images.githubusercontent.com/182067692/437067638-61b43d5e-6aae-43e1-b538-e1e896cd5d3d.mp4
+https://private-user-images.githubusercontent.com/182067692/437098440-d1056391-57bb-4158-803b-733af540d143.mp4
 
 The annotations for the aforementioned example video are structured as follows: The annotation files consist of a list of dictionaries, with each entry adhering to the uniform format below:
 
