@@ -18,7 +18,7 @@ The annotations for the aforementioned example video are structured as follows: 
 [
     {
         "id": 0,
-        "video": "002851_002900/072532.mp4",
+        "video": "datasets/example.mp4",
         "conversations": [
             {
                 "from": "human",
