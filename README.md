@@ -1,7 +1,7 @@
 # MoTIF: An end-to-end Multimodal Road Traffic Scene Understanding Foundation Model 
 The complete dataset will be made publicly available upon publication of the paper.
 
-# :rocket: Framework Overview
+# :rocket: Main Contributions
 Our contributions can be mainly divided into the following parts:
 1.  **Fine-tuned MFM**: the research in this paper focuses on improving the recognition ability of MFMs in the complex environment of traffic roads. By means of the low-rank efficient fine-tuning matrix (LoRA), the model proposed in this paper is trained to refine various types of events in road traffic, which ensures the model's accurate recognition and inference ability in road traffic scenarios.
 2.  **Multi-metric output and event reasoning for road traffic**: the model proposed in this paper outputs structured descriptive information, which enables the detection and analysis of various types of traffic events. The specific inference ability of the multi-modal large model makes it possible to further deduce the traffic state.
